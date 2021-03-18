@@ -1,0 +1,2 @@
+Este es el fichero de prueba 2
+He cambiado algo en el fichero
